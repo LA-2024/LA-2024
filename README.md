@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://innovationzone.netlify.app/](https://innovationzone.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://la.netlify.app/](https://la.netlify.app/)
 
 - 💬 Ask me about **React,Node,Express,Laravel**
 
