@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://la.netlify.app/](https://la.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://la.netlify.app/](https://innovationzone.netlify.app)
 
 - 💬 Ask me about **React,Node,Express,Laravel**
 
 - 📫 How to reach me **abderrezaklawni@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/l-a-477292239/](https://www.linkedin.com/in/l-a-477292239/)
+- 📄 Know about my experiences [www.linkedin.com/in/laouni-abderrazzaq](www.linkedin.com/in/laouni-abderrazzaq)
 
 - ⚡ Fun fact **I don't hate JavaScript 🙂**
 
