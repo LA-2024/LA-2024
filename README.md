@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://la.netlify.app/](https://innovationzone.netlify.app)
 
-- 💬 Ask me about **React,Node,Express,Laravel**
+- 💬 Ask me about **LAMP & MERN**
 
 - 📫 How to reach me **abderrezaklawni@gmail.com**
 
