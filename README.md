@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://la.netlify.app/](https://innovationzone.netlify.app)
+- 👨‍💻 All of my projects are available at [devwithla.app/](https://devwithla.vercel.app/)
 
 - 💬 Ask me about **LAMP & MERN**
 
